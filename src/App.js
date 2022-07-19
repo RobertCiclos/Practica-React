@@ -14,7 +14,7 @@ function App() {
         <Miguel />
       </section>
       <section>
-        NATALIA
+        <Natalia/>
       </section>
       <section>
         Robert
