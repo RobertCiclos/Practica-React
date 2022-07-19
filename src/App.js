@@ -13,7 +13,7 @@ function App() {
         MIGUEL
       </section>
       <section>
-        NATALIA
+        <Natalia/>
       </section>
     </div>
   );
