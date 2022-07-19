@@ -1,9 +1,10 @@
+import Miguel from "./component/Miguel";
 import Robert from "./component/Robert";
 import Ivan from "./component/Ivan";
 function App() {
   return (
     <div className="App">
-      <section>
+      <section className="bg-slate-600">
         <Robert />
       </section>
       <section>
@@ -11,10 +12,13 @@ function App() {
       </section>
       
       <section>
-        MIGUEL
+        <Miguel />
       </section>
       <section>
-        NATALIA
+        <Natalia/>
+      </section>
+      <section>
+        Robert
       </section>
     </div>
   );
