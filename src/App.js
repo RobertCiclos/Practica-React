@@ -1,5 +1,5 @@
 import Robert from "./component/Robert";
-
+import Ivan from "./component/Ivan";
 function App() {
   return (
     <div className="App">
@@ -7,8 +7,9 @@ function App() {
         <Robert />
       </section>
       <section>
-        CARLOS
+        <Ivan/>
       </section>
+      
       <section>
         MIGUEL
       </section>
