@@ -1,3 +1,4 @@
+import Miguel from "./component/Miguel";
 import Robert from "./component/Robert";
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
         CARLOS
       </section>
       <section>
-        MIGUEL
+        <Miguel />
       </section>
       <section>
         NATALIA
