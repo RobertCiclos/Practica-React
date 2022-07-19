@@ -4,7 +4,7 @@ import Robert from "./component/Robert";
 function App() {
   return (
     <div className="App">
-      <section>
+      <section className="bg-slate-600">
         <Robert />
       </section>
       <section>
@@ -15,6 +15,9 @@ function App() {
       </section>
       <section>
         NATALIA
+      </section>
+      <section>
+        Robert
       </section>
     </div>
   );
